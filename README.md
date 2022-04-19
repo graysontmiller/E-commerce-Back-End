@@ -27,3 +27,7 @@ The Back end for an e-commerce site. utilizes the Sequelize ORM library to inter
 - Insomnia (for testing routes)
 
 # Video DEMO
+
+
+https://user-images.githubusercontent.com/92832005/163909936-92cfbab3-9840-4599-bf57-11a104ebe522.mp4
+
